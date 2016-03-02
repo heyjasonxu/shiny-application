@@ -1,7 +1,4 @@
 # server.R
-library(shiny)
-library(dplyr)
-library(plotly)
 
 #mean length and width of pedal and sepal for each species
 group_name <- iris %>% group_by(Species) %>% summarise(sepal_length = mean(Sepal.Length),
