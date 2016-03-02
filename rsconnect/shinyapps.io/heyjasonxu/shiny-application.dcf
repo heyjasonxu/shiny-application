@@ -1,0 +1,8 @@
+name: shiny-application
+account: heyjasonxu
+server: shinyapps.io
+bundleId: 385481
+url: https://heyjasonxu.shinyapps.io/shiny-application/
+when: 1456925265.48862
+asMultiple: FALSE
+asStatic: FALSE
